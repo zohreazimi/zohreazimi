@@ -1,4 +1,5 @@
 - 👋 Hi, I,m Zohre Azimi
+- Born in Tehran
 - 👀  Ph.D. in Applied Mathematics | Numerical Analysis
 - 🌱 University Lecturer | LaTeX & Python Instructor
 - 💞️ Researcher in Data Science & Machine Learning

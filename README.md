@@ -1,13 +1,6 @@
-- 👋 Hi, I,m Zohre Azimi
-- Born in Tehran
-- 👀  Ph.D. in Applied Mathematics | Numerical Analysis
-- 🌱 University Lecturer | LaTeX & Python Instructor
-- 💞️ Researcher in Data Science & Machine Learning
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+Welcome to my GitHub repositories 👋
 
-<!---
-Hello! I’m Zahra Azimi, a Ph.D. graduate in Applied Mathematics from Tehran, with extensive experience teaching at the university level and instructing LaTeX and Python.
-After completing my doctorate, I shifted my focus to the fields of Data Science, Machine Learning, and advanced data analysis.
---->
+This space is dedicated to sharing projects, code, and insights in Data Science, Machine Learning, and Applied Mathematics.  
+Here you'll find practical solutions, experiments, and tutorials designed to help you learn and innovate.
+
+Feel free to explore, contribute, or get in touch!

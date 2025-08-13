@@ -16,5 +16,6 @@ If you like project, please ⭐ it on GitHub!
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
+[![Day 001 CNN](https://raw.githubusercontent.com/Zohre Azimi/Daily-Neural-Network-Exercise/main/images/day001_result.png)](https://github.com/Zohre Azimi/Daily-Neural-Network-Exercise/tree/main/Day_001_First_NN)
 
 

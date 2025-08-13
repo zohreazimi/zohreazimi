@@ -17,5 +17,7 @@ If you like project, please ⭐ it on GitHub!
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 [![Day 001 CNN](https://raw.githubusercontent.com/Zohre Azimi/Daily-Neural-Network-Exercise/main/images/day001_result.png)](https://github.com/Zohre Azimi/Daily-Neural-Network-Exercise/tree/main/Day_001_First_NN)
+### [Day 001: My First CNN](https://github.com/Zohre Azimi/Daily-Neural-Network-Exercise/tree/main/Day_001_First_NN)
+یک شبکه عصبی ساده برای تشخیص ارقام MNIST.
 
 

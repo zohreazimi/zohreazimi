@@ -17,45 +17,45 @@ If you like project, please ⭐ it on GitHub!
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## My Projects
-<table>
-  <tr>
-    <!-- پروژه ۱: Project Euler Solution -->
-    <td align="center">
-      <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="300" alt="Project Euler Solution"/>
-      </a>
-      <br>
-      <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-        <b>Project Euler Solution</b>
-      </a>
-      <br>
-      Solve interesting math problems from Project Euler.
-      <br>
-      <!-- Badge ستاره لینک‌دار -->
-      <a href="https://github.com/zohreazimi/Project-Euler-Solution/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Project Euler Solution Stars"/>
-      </a>
-    </td>
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-   <tr>
-    <!-- پروژه ۱: Project Euler Solution -->
-    <td align="center">
-      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="200" alt="My daily Neural Network Exercise"/>
-      </a>
-      <br>
-      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <b>Daily-Neural-Network-Exercise</b>
-      </a>
-      <br>
-   I post a piece of artificial intelligence code every day.
-  <br>
- <!-- Badge ستاره لینک‌دار -->
-   <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
-   <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
-   </a>
-   </td>
-  </tr>
-</table>
+  <!-- پروژه ۱: Project Euler Solution -->
+  <div align="center">
+    <a href="https://github.com/zohreazimi/Project-Euler-Solution">
+      <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="220" alt="Project Euler Solution"/>
+    </a>
+    <br>
+    <a href="https://github.com/zohreazimi/Project-Euler-Solution">
+      <b>Project Euler Solution</b>
+    </a>
+    <br>
+    Solve interesting math problems from Project Euler.
+    <br>
+    <!-- Badge ستاره لینک‌دار -->
+    <a href="https://github.com/zohreazimi/Project-Euler-Solution/stargazers">
+      <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Project Euler Solution Stars"/>
+    </a>
+  </div>
+
+  <!-- پروژه ۲: Daily Neural Network Exercise -->
+  <div align="center">
+    <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
+      <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="220" alt="Daily Neural Network Exercise"/>
+    </a>
+    <br>
+    <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
+      <b>Daily Neural Network Exercise</b>
+    </a>
+    <br>
+    Practice daily exercises on neural networks.
+    <br>
+    <!-- Badge ستاره لینک‌دار -->
+    <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
+      <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
+    </a>
+  </div>
+
+</div>
+
 
 

@@ -19,7 +19,7 @@ If you like project, please ⭐ it on GitHub!
 ## My Projects
 
 <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-  <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/cover.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="1000"/>
 </a>
 
 

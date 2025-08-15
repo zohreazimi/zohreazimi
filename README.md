@@ -22,7 +22,7 @@ If you like project, please ⭐ it on GitHub!
     <!-- پروژه ۱: Project Euler Solution -->
     <td align="center">
       <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="300" alt="Project Euler Solution"/>
+        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="50%" alt="Project Euler Solution"/>
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Project-Euler-Solution">
@@ -41,7 +41,7 @@ If you like project, please ⭐ it on GitHub!
     <!-- پروژه ۱: Project Euler Solution -->
     <td align="center">
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="300" alt="My daily Neural Network Exercise"/>
+        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="50%" alt="My daily Neural Network Exercise"/>
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">

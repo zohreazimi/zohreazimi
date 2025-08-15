@@ -30,7 +30,6 @@ If you like project, please ⭐ it on GitHub!
       </a>
       <br>
       Solve interesting math problems from Project Euler.
-      <br>
       <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Stars"/>
     </td>
 

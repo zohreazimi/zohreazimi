@@ -19,11 +19,14 @@ If you like project, please ⭐ it on GitHub!
 ## My Projects
 <div align="center">
   <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-    <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="260"/>
+    <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="300"/>
   </a>
   <br>
   <b>Project Euler Solution</b>
 </div>
+![GitHub stars](https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social)
+![GitHub forks](https://img.shields.io/github/forks/zohreazimi/Project-Euler-Solution?style=social)
+
 
 
 

@@ -38,7 +38,7 @@ If you like project, please ⭐ it on GitHub!
     </td>
 
     <!-- پروژه ۲: Daily Neural Network Exercise -->
-    <td align="center" width="50%">
+  <td align="center" width="50%">
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
         <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="220" alt="Daily Neural Network Exercise"/>
       </a>

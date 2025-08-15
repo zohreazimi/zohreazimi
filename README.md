@@ -17,28 +17,31 @@ If you like project, please ⭐ it on GitHub!
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## My Projects
-<div align="center">
+<table>
+  <tr>
+    <!-- پروژه ۱: Project Euler Solution -->
+    <td align="center">
+      <a href="https://github.com/zohreazimi/Project-Euler-Solution">
+        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="260" alt="Project Euler Solution"/>
+      </a>
+      <br>
+      <a href="https://github.com/zohreazimi/Project-Euler-Solution">
+        <b>Project Euler Solution</b>
+      </a>
+      <br>
+      Solve interesting math problems from Project Euler.
+      <br>
+      <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Stars"/>
+    </td>
 
-  <!-- عکس پروژه -->
-  <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-    <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="260" alt="Project Euler Solution"/>
-  </a>
-
-  <br>
-
-  <!-- اسم پروژه با لینک -->
-  <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-    <b>Project Euler Solution</b>
-  </a>
-
-  <br><br>
-
-  <!-- badges -->
-  <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/zohreazimi/Project-Euler-Solution?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen" alt="Problems Solved"/>
-
-</div>
+    <!-- پروژه ۲: Daily Neural Network Exercise -->
+    <td align="center">
+      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
+        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/cover.png" width="260" alt="Daily Neural Network Exercise"/>
+      </a>
+      <br>
+      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
+        <b>Daily Neural Network Exercise</b>
 
 
 

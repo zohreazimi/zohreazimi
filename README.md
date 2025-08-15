@@ -18,14 +18,28 @@ If you like project, please ⭐ it on GitHub!
 
 ## My Projects
 <div align="center">
+
+  <!-- عکس پروژه -->
   <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-    <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="300"/>
+    <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="260" alt="Project Euler Solution"/>
   </a>
+
   <br>
-  <b>Project Euler Solution</b>
+
+  <!-- اسم پروژه با لینک -->
+  <a href="https://github.com/zohreazimi/Project-Euler-Solution">
+    <b>Project Euler Solution</b>
+  </a>
+
+  <br><br>
+
+  <!-- badges -->
+  <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/zohreazimi/Project-Euler-Solution?style=social" alt="Forks"/>
+  <img src="https://img.shields.io/badge/Problems%20Solved-10-brightgreen" alt="Problems Solved"/>
+
 </div>
-![GitHub stars](https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social)
-![GitHub forks](https://img.shields.io/github/forks/zohreazimi/Project-Euler-Solution?style=social)
+
 
 
 

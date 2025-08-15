@@ -37,23 +37,24 @@ If you like project, please ⭐ it on GitHub!
       </a>
     </td>
 
-    <!-- پروژه ۲: Daily-Neural-Network-Exercise -->
+   <tr>
+    <!-- پروژه ۱: Project Euler Solution -->
     <td align="center">
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="300" alt="Daily Neural Network Exercise"/>
+        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" width="300" alt="My daily Neural Network Exercise"/>
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <b>Daily-Neural-Network-Exercise</b>
+        <b>daily exercise</b>
       </a>
       <br>
-      Practice daily exercises on neural networks.
-      <br>
-      <!-- Badge ستاره لینک‌دار -->
-      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
-      </a>
-    </td>
+   my daly exersice.
+  <br>
+ <!-- Badge ستاره لینک‌دار -->
+   <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
+   <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
+   </a>
+   </td>
   </tr>
 </table>
 

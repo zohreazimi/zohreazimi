@@ -19,8 +19,8 @@ If you like project, please ⭐ it on GitHub!
 ## My Projects
 <table>
   <tr>
-    <!-- پروژه ۱: Project Euler Solution -->
-    <td align="center" width="50%">
+    
+   <td align="center" width="50%">
       <a href="https://github.com/zohreazimi/Project-Euler-Solution">
         <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" " width="320" height="420" alt="Project Euler Solution"/>
       </a>
@@ -37,7 +37,8 @@ If you like project, please ⭐ it on GitHub!
       </a>
     </td>
 
-    <!-- پروژه ۲: Daily Neural Network Exercise -->
+
+
   <td align="center" width="50%">
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
         <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN.png" " width="220" height="220" alt="Daily Neural Network Exercise"/>

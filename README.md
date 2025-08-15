@@ -31,9 +31,10 @@ If you like project, please ⭐ it on GitHub!
       <br>
       Solve interesting math problems from Project Euler.
       <br>
-     <!-- Badge بدون لینک -->
-<img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Stars"/>
-
+      <!-- Badge ستاره لینک‌دار -->
+      <a href="https://github.com/zohreazimi/Project-Euler-Solution/stargazers">
+        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Project Euler Solution Stars"/>
+      </a>
     </td>
 
     <!-- پروژه ۲: Daily Neural Network Exercise -->
@@ -48,8 +49,12 @@ If you like project, please ⭐ it on GitHub!
       <br>
       Practice daily exercises on neural networks.
       <br>
-      <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Stars"/>
+      <!-- Badge ستاره لینک‌دار -->
+      <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
+        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
+      </a>
     </td>
   </tr>
 </table>
+
 

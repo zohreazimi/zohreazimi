@@ -17,11 +17,9 @@ If you like project, please ⭐ it on GitHub!
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## My Projects
-
 <a href="https://github.com/zohreazimi/Project-Euler-Solution">
   <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png" width="260"/>
-</a>
-**Project Euler Solution**
+</a>**Project Euler Solution**
 
 
 

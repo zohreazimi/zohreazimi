@@ -44,7 +44,7 @@ If you like project, please ⭐ it on GitHub!
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <b>Daily Neural Network Exercise</b>
+        <b>Daily-Neural-Network-Exercise</b>
       </a>
       <br>
       Practice daily exercises on neural networks.

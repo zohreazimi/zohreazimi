@@ -25,7 +25,7 @@ If you like project, please ⭐ it on GitHub!
     
    <td align="center" width="50%">
       <a href="https://github.com/zohreazimi/Project-Euler-Solution">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE2.png" " width="320" height="420" alt="Project Euler Solution"/>
+        <img src="https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE2.png" width="320" height="420" alt="Project Euler Solution"/>
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Project-Euler-Solution">
@@ -34,18 +34,14 @@ If you like project, please ⭐ it on GitHub!
       <br>
       Solve interesting math problems from Project Euler.
       <br>
-      <!-- Badge ستاره لینک‌دار -->
       <a href="https://github.com/zohreazimi/Project-Euler-Solution/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social&cacheSeconds=60" />
-
+        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social&cacheSeconds=60" alt="Stars"/>
       </a>
     </td>
 
-
-
   <td align="center" width="50%">
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN2.jpg" " width="220" height="220" alt="Daily Neural Network Exercise"/>
+        <img src="https://raw.githubusercontent.com/zohreazimi/Daily-Neural-Network-Exercise/main/images/CNN2.jpg" width="220" height="220" alt="Daily Neural Network Exercise"/>
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
@@ -54,13 +50,13 @@ If you like project, please ⭐ it on GitHub!
       <br>
       Practice daily exercises on neural networks.
       <br>
-      <!-- Badge ستاره لینک‌دار -->
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social&cacheSeconds=60" />
-    
+        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social&cacheSeconds=60" alt="Stars"/>
+      </a>
+    </td>
+
   </tr>
 </table>
-
 
 
 

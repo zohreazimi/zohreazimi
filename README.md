@@ -36,7 +36,7 @@ If you like project, please ⭐ it on GitHub!
       <br>
       <!-- Badge ستاره لینک‌دار -->
       <a href="https://github.com/zohreazimi/Project-Euler-Solution/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" alt="Project Euler Solution Stars"/>
+        <img src="https://img.shields.io/github/stars/zohreazimi/Project-Euler-Solution?style=social" ... />
       </a>
     </td>
 
@@ -55,7 +55,7 @@ If you like project, please ⭐ it on GitHub!
       <br>
       <!-- Badge ستاره لینک‌دار -->
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
-        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" alt="Daily Neural Network Exercise Stars"/>
+        <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social" ... />
       </a>
     </td>
   </tr>

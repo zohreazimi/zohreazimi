@@ -45,10 +45,10 @@ If you like project, please ⭐ it on GitHub!
       </a>
       <br>
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise">
-        <b>daily exercise</b>
+        <b>Daily-Neural-Network-Exercise</b>
       </a>
       <br>
-   my daly exersice.
+   I post a piece of artificial intelligence code every day.
   <br>
  <!-- Badge ستاره لینک‌دار -->
    <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">

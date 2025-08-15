@@ -57,8 +57,7 @@ If you like project, please ⭐ it on GitHub!
       <!-- Badge ستاره لینک‌دار -->
       <a href="https://github.com/zohreazimi/Daily-Neural-Network-Exercise/stargazers">
         <img src="https://img.shields.io/github/stars/zohreazimi/Daily-Neural-Network-Exercise?style=social&cacheSeconds=60" />
-      </a>
-    </td>
+    
   </tr>
 </table>
 

@@ -16,5 +16,8 @@ If you like project, please ⭐ it on GitHub!
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## My Project 
+## My Projects
+
+[![Project Euler Solution](https://raw.githubusercontent.com/zohreazimi/Project-Euler-Solution/main/images/PE.png)](https://github.com/zohreazimi/Project-Euler-Solution)
+
 

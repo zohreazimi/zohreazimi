@@ -38,9 +38,6 @@
 
             
           
-[![Open Issues](https://img.shields.io/github/issues/zohreazimi/Daily-Neural-Network-Exercise)](https://github.com/zohreazimi/Daily-Neural-Network-Exercise/issues)
-
-
 ## My Projects
 <table>
   <tr>
@@ -78,6 +75,11 @@
     </td>
 
   </tr>
+
+  
+[![Open Issues](https://img.shields.io/github/issues/zohreazimi/Daily-Neural-Network-Exercise)](https://github.com/zohreazimi/Daily-Neural-Network-Exercise/issues)
+
+
 </table>
 
 

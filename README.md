@@ -22,10 +22,6 @@
 
             
           
-
-
-[![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dr_zohre_azimi)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohre-azimii/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zohre_azimi_._)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohreazimi)  
-
 [![Open Issues](https://img.shields.io/github/issues/zohreazimi/Daily-Neural-Network-Exercise)](https://github.com/zohreazimi/Daily-Neural-Network-Exercise/issues)
 
 

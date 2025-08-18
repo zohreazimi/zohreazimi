@@ -14,8 +14,9 @@
           
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/htmx/htmx-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"  height="40"/>
+  
+   <i class="devicon-github-original-wordmark" height="40"></i>
           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
 </p>
 
             

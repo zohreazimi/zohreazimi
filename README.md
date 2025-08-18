@@ -8,21 +8,14 @@
 
 ### ⚡ Skills
 <p align="center">
-  <!-- فقط لوگوی Python -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  
-  <!-- فقط لوگوی PyTorch -->
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  
-  <!-- فقط لوگوی TensorFlow -->
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  
-  <!-- فقط لوگوی Data Science -->
+  <img src="https://img.shields.io/badge/-ML-0A1931?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DL-0A1931?style=for-the-badge&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/-Data%20Science-0A1931?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
-
-## Socials
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dr_zohre_azimi)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohre-azimii/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zohre_azimi_._)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohreazimi)  
 

@@ -1,7 +1,7 @@
-<!-- انیمیشن متن تایپ شونده -->
+<!-- انیمیشن متن تایپ شونده --><!-- متن تایپ شونده با استایل مشابه rastegari -->
 <p align="center">
   <a href="https://github.com/zohreazimi">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F77F00&center=true&vCenter=true&width=500&lines=Hello+there+👋;I'm+Zohre+Azimi;AI+Enthusiast+%7C+ML+Researcher;Welcome+to+my+GitHub+profile!" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2000&pause=1000&color=F97316&center=true&vCenter=true&width=600&height=70&lines=Hello+there+👋+;%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D%3D;I'm+Zohre+Azimi;AI+Enthusiast+%7C+ML+Researcher;Welcome+to+my+GitHub+profile!" />
   </a>
 </p>
 

@@ -1,6 +1,10 @@
-# **Welcome to my GitHub repositories** 👋
+<!-- انیمیشن متن تایپ شونده -->
+<p align="center">
+  <a href="https://github.com/zohreazimi">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=F77F00&center=true&vCenter=true&width=500&lines=Hello+there+👋;I'm+Zohre+Azimi;AI+Enthusiast+%7C+ML+Researcher;Welcome+to+my+GitHub+profile!" />
+  </a>
+</p>
 
-If you like project, please ⭐ it on GitHub!
 
 ## Socials
 

@@ -8,10 +8,17 @@
 
 ### ⚡ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML-0A1931?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAMklEQVQY02NgQAJGBkYGBgYGJkYmBg4GBgYGBgYGJkYmBg4GBgYGBgYGJkYmBg4GBgYGACwBzQ0+0P5AAAAAElFTkSuQmCC" />
+  <!-- فقط لوگوی Python -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <!-- فقط لوگوی PyTorch -->
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  
+  <!-- فقط لوگوی TensorFlow -->
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
+  <!-- فقط لوگوی Data Science -->
+  <img src="https://img.shields.io/badge/-Data%20Science-0A1931?style=for-the-badge&logo=apachekafka&logoColor=white" />
 </p>
 
 

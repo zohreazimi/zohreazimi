@@ -3,7 +3,7 @@
 
 <!-- متن تایپ شونده زیر Hello there -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=I'm+Zohre+Azimi;I+have+a+PhD+in+applied+mathematics.;I'm+working+on+ML,+DL+and+Data+Science;Welcome+to+my+GitHub+profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=I'm+Zohre+Azimi;I+have+a+PhD+in+applied+mathematics.;I'm+working+on+ML,+DL+and+Data+Science;Welcome+to+my+GitHub+profile" />
 </p>
 
 

@@ -6,19 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=I'm+Zohre+Azimi;I+have+a+PhD+in+applied+mathematics.;I'm+working+on+ML,+DL+and+Data+Science;Welcome+to+my+GitHub+profile" />
 </p>
 
-### ⚡ Skills
 <p align="center">
-  <img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" />
-  <img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" />
-  <img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=keras&logoColor=D00000" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40"/>
 </p>
 
 

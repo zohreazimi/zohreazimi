@@ -14,6 +14,14 @@
   <img src="https://img.shields.io/badge/%20-%20?style=for-the-badge&logo=keras&logoColor=D00000" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pytorch.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/keras.svg" height="40"/>
+</p>
+
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dr_zohre_azimi)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zohre-azimii/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/zohre_azimi_._)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zohreazimi)  
 

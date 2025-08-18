@@ -6,6 +6,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=I'm+Zohre+Azimi;I+have+a+PhD+in+applied+mathematics.;I'm+working+on+ML,+DL+and+Data+Science;Welcome+to+my+GitHub+profile" />
 </p>
 
+### ⚡ Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-0A1931?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAABlBMVEUAAAD///+l2Z/dAAAAMklEQVQY02NgQAJGBkYGBgYGJkYmBg4GBgYGBgYGJkYmBg4GBgYGBgYGJkYmBg4GBgYGACwBzQ0+0P5AAAAAElFTkSuQmCC" />
+</p>
 
 
 ## Socials
